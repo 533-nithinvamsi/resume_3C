@@ -8,9 +8,9 @@
 - Address:kakaninagar jaggayyapet
 ### Educational details:
 
-**b-tech**
+### **b-tech**
 
-- college name:_mic college_<br>
+- college name:_DEVINENI VENKATA RAMANA AND DR.HIMASEKHAR MIC  COLLEGE OF TECHONOLOGY_<br>
 - branch:computer science Engineering
 - Year of study:2018-2022
 - PERCENTAGE:79%
@@ -28,7 +28,7 @@
 - year of study:2016<br>
 - PERCENTAGE:88%
 - ADDRESS:jaggayyapet<br>
-### skills**
+### **skills**
 - java-89%
 - c-programming-90%
 - DBMS-100%
