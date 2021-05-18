@@ -21,7 +21,8 @@
         - branch:mpc<br>
         - year of study:2015
         - percentage:89%
-        - Address:jaggayyapet<br>
+        - Address:jaggayyapet
+        
         
 ### **ssc**
 - Schoolname:_nagarjuna high school_<br>
