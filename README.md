@@ -17,6 +17,7 @@
 - Address:jaggayyapet<br>
 
 ### **intermediate**
+
         - College Name:_jaggayyapet junior College_<br>
         - branch:mpc<br>
         - year of study:2015
@@ -25,17 +26,22 @@
         
         
 ### **ssc**
+
 - Schoolname:_nagarjuna high school_<br>
 - year of study:2016<br>
 - PERCENTAGE:88%
 - ADDRESS:jaggayyapet<br>
 ### **skills**
+
 - java-89%
 - c-programming-90%
 - DBMS-100%
 ### **goals**
-I want to be programmer in python 
+
+I want to be programmer in python
+
 ### **HOBBIES**
+
 
  - Playing cricket<br>
  - listening music<br>
@@ -52,6 +58,7 @@ I want to be programmer in python
 
 - I GOT 22 CERTIFICATES IN COUSEERA
 ### **PROJECTS**
+
 - Working in Artifical intelligence & machine learning
  
 
