@@ -40,7 +40,9 @@ I want to be programmer in python
  - Playing cricket<br>
  - listening music<br>
  - reading books<br>
+ 
  ### **Strenghts**
+ 
  - Hardwork
  - smart thinking
  - Weakness:
