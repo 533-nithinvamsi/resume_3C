@@ -41,7 +41,7 @@ I want to be programmer in python
  - listening music<br>
  - reading books<br>
  
- ### **Strenghts**
+ ### **Strengths**
  
  - Hardwork
  - smart thinking
