@@ -14,14 +14,14 @@
 - branch:computer science Engineering
 - Year of study:2018-2022
 - PERCENTAGE:79%
-- Address:vijayawada<br>
+- Address:jaggayyapet<br>
 
 ### **intermediate**
         - College Name:_jaggayyapet junior College_<br>
         - branch:mpc<br>
         - year of study:2015
         - percentage:89%
-        - Address:Vijayawada<br>
+        - Address:jaggayyapet<br>
         
 ### **ssc**
 - Schoolname:_nagarjuna high school_<br>
